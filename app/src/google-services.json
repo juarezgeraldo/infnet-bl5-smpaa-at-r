@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368171735465",
+    "project_id": "anotacoes-843e2",
+    "storage_bucket": "anotacoes-843e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368171735465:android:8eaf33f6a580953efd8cb8",
+        "android_client_info": {
+          "package_name": "com.infnet.juarez.anotacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368171735465-uep0rebch9u8gl56ku71bfsoetu0u7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCefx3KRlIvNegnk6WEvzsL_AsCckXUcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368171735465-uep0rebch9u8gl56ku71bfsoetu0u7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
